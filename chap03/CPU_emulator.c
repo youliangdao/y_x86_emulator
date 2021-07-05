@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+//ニーモニックとレジスタを定数として定義
 #define MOV   0
 #define ADD   1
 #define SUB   2
